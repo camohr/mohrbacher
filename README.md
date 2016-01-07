@@ -5,3 +5,5 @@ Adding another line in doink-with-readme.
 Green!
 Red!
 Yellow!
+Create and close an ad-hoc issue during Merge.
+
